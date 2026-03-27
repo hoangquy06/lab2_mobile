@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+drawable background
+drawable bird
+drawable pipe
+string app_name
+style Theme.FlappyBirdCompose

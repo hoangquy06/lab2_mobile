@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.flappybird.app-merged_res-40:/drawable-nodpi_pipe.png.flat",
+        "source": "com.example.flappybird.app-main-42:/drawable-nodpi/pipe.png"
+    },
+    {
+        "merged": "com.example.flappybird.app-merged_res-40:/drawable-nodpi_bird.jpg.flat",
+        "source": "com.example.flappybird.app-main-42:/drawable-nodpi/bird.jpg"
+    },
+    {
+        "merged": "com.example.flappybird.app-merged_res-40:/drawable-nodpi_background.jpg.flat",
+        "source": "com.example.flappybird.app-main-42:/drawable-nodpi/background.jpg"
+    }
+]
